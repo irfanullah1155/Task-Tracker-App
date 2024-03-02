@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "309518802497",
+    "project_id": "footwear-c303d",
+    "storage_bucket": "footwear-c303d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309518802497:android:f0c59a4aa4ae6c6ab4f0c0",
+        "android_client_info": {
+          "package_name": "com.example.production_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_xc6HzA9NsEh14ayeJxk6kZjfzD5MCcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
